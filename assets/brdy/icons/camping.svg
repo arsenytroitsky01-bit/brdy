@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+  <title>Camping</title>
+  <g stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3.5 19h17"/>
+    <path d="M12 5 5.5 19h13L12 5Z"/>
+    <path d="M12 5v14"/>
+    <path d="M8.8 19 12 12.8 15.2 19"/>
+  </g>
+</svg>

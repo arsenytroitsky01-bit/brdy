@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+  <title>Collections</title>
+  <g stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 7.5 12 4l6 3.5-6 3.5-6-3.5Z"/>
+    <path d="m6 12 6 3.5 6-3.5"/>
+    <path d="m6 16.5 6 3.5 6-3.5"/>
+  </g>
+</svg>

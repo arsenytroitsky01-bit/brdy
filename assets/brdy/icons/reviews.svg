@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+  <title>Reviews</title>
+  <g stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 4h10c1.1 0 2 .9 2 2v10c0 1.1-.9 2-2 2h-4.2L9 21v-3H7c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2Z"/>
+    <path d="m12 7.8 1.1 2.2 2.4.4-1.7 1.7.4 2.4-2.2-1.1-2.2 1.1.4-2.4-1.7-1.7 2.4-.4L12 7.8Z"/>
+  </g>
+</svg>

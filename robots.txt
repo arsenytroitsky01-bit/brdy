@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brdy.ru/sitemap-index.xml

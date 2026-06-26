@@ -1,7 +1,7 @@
-User-agent: Yandex
+User-agent: *
 Allow: /
 
-User-agent: *
+User-agent: Yandex
 Allow: /
 
 Sitemap: https://brdy.ru/sitemap-index.xml
